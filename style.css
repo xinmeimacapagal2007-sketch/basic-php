@@ -1,0 +1,17 @@
+h1 {
+  color: rgba(0, 0, 255, 0.25);  /* Semi-transparent blue */
+  font-weight: bold;
+  font-size: 40px;
+}
+
+p {
+  background-image: url(imej.png);
+  height: 100px;
+  width: 100px;
+}
+
+.glorion {
+  color: red;
+  font-size: 20px;
+  font-weight: bold;
+}
